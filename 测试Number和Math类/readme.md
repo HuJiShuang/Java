@@ -1,0 +1,1 @@
+测试Number类和Math类中的xxxValue()，valueOf()方法，random()方法
