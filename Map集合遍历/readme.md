@@ -1,0 +1,6 @@
+实现Map集合遍历的5种方法
+1.通过Map.keySet遍历key和value
+2.通过Map.entrySet使用Iterator遍历key和value
+3.通过Map.entrySet遍历key和value
+4.遍历Map集合中所有的key
+5.遍历Map集合中所有的value
