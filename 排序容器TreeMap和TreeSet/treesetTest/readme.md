@@ -1,0 +1,8 @@
+TreeSet和TreeMap是自动实现排序的容器，实现方法还是实现Comparable接口，重写CompareTo方法
+						  实现Comparator接口，重写Compare方法
+Person是实体类
+Worker是实现Comparable接口，重写CompareTo方法
+TreeSetDemo是使用匿名内部类定义排序规则，实现对Person的排序
+TreeSetDemo2实现Worker的排序
+
+TreeMap集合与TreeSet类似，只不过是对Key进行排序
